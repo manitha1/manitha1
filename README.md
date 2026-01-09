@@ -29,9 +29,6 @@ I am a passionate **Bachelor of Information and Communication Technology (BICT)*
 
 ---
 
-### 🏅 Leadership & Involvement
-As the **President of the Sports Sub-committee**, I manage team coordination, event planning, and strategic development. I believe that the discipline found in sports directly translates to writing better code and managing complex projects.
-
 ---
 
 ### 📫 Connect with me:
