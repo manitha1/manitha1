@@ -4,7 +4,6 @@ I am a passionate **Bachelor of Information and Communication Technology (BICT)*
 
 ### 🚀 About Me
 - 🎓 **Undergraduate:** University of Sri Jayewardenepura (Faculty of Technology).
-- 🏆 **Leadership:** President of the Faculty of Technology Sports Sub-committee.
 - 💻 **Focus:** Software Development, Networking, and Information Systems.
 - 🌱 **Learning:** Currently diving deeper into [Mention a specific tech, e.g., Cloud Computing or React Native].
 - 🥅 **Goal:** Leveraging technology to solve real-world problems while fostering a strong sports culture in my community.
